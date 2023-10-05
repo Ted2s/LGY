@@ -1,3 +1,2 @@
 # LGY
-### 001219
-### LEE GWI YONG
+### 000402_ParkJooHyeung
